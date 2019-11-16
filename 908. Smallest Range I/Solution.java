@@ -29,6 +29,5 @@ class Solution {
             result=0;  //결과 B의 최대 최소가 겹칠 경우
         }
         return result;
-        
     }
 }
